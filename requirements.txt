@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain_ollama
+llama-index
+chromadb
+sentence-transformers
+requests
+python-dotenv
+
+
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+faiss-cpu
